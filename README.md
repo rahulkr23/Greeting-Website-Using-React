@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 # Greeting Website
-![Websites](https://i.postimg.cc/QMTVc5p4/desk.png)
+![Websites:-](https://i.postimg.cc/QMTVc5p4/desk.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
