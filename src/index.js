@@ -4,7 +4,7 @@ import './index.css';
 
 
 
-let currDate = new Date(2021, 4, 5, 8);
+let currDate = new Date(2021, 4, 5, 17);
 currDate = currDate.getHours();
 let greeting = '';
 
